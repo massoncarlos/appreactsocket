@@ -1,6 +1,6 @@
 # appreactsocket
 
-Projeto desevolvido com React Native
+Projeto desenvolvido com React Native
 
 Aplicativo para controle de aquecimento 
 
